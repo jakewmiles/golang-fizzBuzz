@@ -1,3 +1,3 @@
 # fizzBuzz
 
-## A simple fizzbuzz example written in golang, taking 3 parameters: limit, factor1 and factor 2.
+## Fizzbuzz example written in golang, taking 3 parameters: limit, factor1 and factor 2.
